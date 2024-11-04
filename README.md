@@ -27,13 +27,13 @@ Run the script by providing an IP address in CIDR format as a parameter:
 ./subnetcalc.sh <IP/CIDR>
 ```
 
-# Example
+## Example
 
 ```bash
 ./subnetcalc.sh 192.168.1.0/24
 ```
 
-# Output Example
+## Output Example
 
 ```
 Network ID      : 192.168.1.0
